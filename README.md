@@ -1,4 +1,4 @@
-# tenzies_game
+# Tenzies Game
 
 A project made with React + Javascript, which was then converted to TypeScript + Javascript.
 
